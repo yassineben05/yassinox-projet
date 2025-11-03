@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 yassine
-=======
-yassine
->>>>>>> dc37eac41a2911c499c7ab3edffa9cf4c52bb942
